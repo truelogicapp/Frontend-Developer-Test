@@ -70,4 +70,4 @@ In the README file, we should be able to find all the information necessary to r
 
 ### Delivery
 
-If your repository is private, please share it with r.katyal@gmg.com.
+If your repository is private, please share it with rkatyal@altayer.com.
